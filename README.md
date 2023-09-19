@@ -1,3 +1,3 @@
 ## This is test commit
 
-Launch instance ->
+Launch instance using aws cli
