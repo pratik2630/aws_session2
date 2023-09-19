@@ -1,0 +1,20 @@
+git init # To initialize git
+
+git add README.md  
+git add .
+#add everything to git
+
+git commit -m "Changes in feature 1" README.md
+or 
+git commit -m "Changes in feature 1" .
+
+
+git branch main # creates new branch
+git branch feature1 # create feature1 branch
+
+git switch feature1
+
+git remote add origin link_of_repository
+
+git push origin main
+git push origin feature1
